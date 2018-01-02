@@ -1,4 +1,4 @@
-# grow-react-exercise
+# React-Redux
 
 ### Run:
  - npm install
