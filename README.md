@@ -1,5 +1,5 @@
 # React-Redux
-
+### React app for searching representatives and senators by state
 ### Run:
  - npm install
  - npm start
