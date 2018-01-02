@@ -1,5 +1,5 @@
 {
-  "name": "grow-react-exercise",
+  "name": "react-redux-exercise",
   "version": "1.0.0",
   "description": "React app for searching representatives and senators by state",
   "main": "index.js",
